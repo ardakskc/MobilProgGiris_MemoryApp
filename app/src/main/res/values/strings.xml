@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string-array name="Moods">
+        <item>Moods</item>
+        <item>Happy</item>
+        <item>Sad</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
